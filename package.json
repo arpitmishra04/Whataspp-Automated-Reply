@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20",
+    "openai": "^3.2.1",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.19.4"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "whatsapp-automated-reply",
+  "version": "1.0.0",
+  "description": "generate automatic whatsapp replies",
+  "main": "server.js",
+  "author": "Arpit Mishra",
+  "license": "ISC"
+}
